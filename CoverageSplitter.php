@@ -50,6 +50,4 @@ echo '<br><br><br>';
 echo $nonCrucialCSS;
 file_put_contents($crucialOutput, $crucialCSS);
 file_put_contents($nonCrucialOutput, $nonCrucialCSS);
-
-
 ?>
