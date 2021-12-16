@@ -24,4 +24,3 @@ We are pleased with any contributions. Feel free to make any pull requests or se
 ## License
 
 Licensed under the MIT license.
-
